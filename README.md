@@ -11,3 +11,4 @@ This project predicts the likelihood of a loan applicant defaulting based on his
 ## Technologies Used
 - Python (Google Colab)
 - Scikit-learn, Pandas, Statsmodels, Seaborn
+##
